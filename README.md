@@ -15,3 +15,5 @@ test test test
 
 First thing you need to do, on any OS actually, is update the system! For that: **Apple Icon > Software Update...**
 
+Download from [www.google.com/chrome](https://www.google.com/intl/en/chrome/browser/).
+
