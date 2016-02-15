@@ -1,4 +1,5 @@
-# hw
+<<<<<<< HEAD
+
 
 - [System update](#system-update)
 - [System preferences](#system-preferences)
@@ -41,5 +42,8 @@ Let's just quickly change some preferences. In **iTerm > Preferences...**, under
 In the tab **Profiles**, create a new one with the "+" icon, and rename it to your first name for example. Then, select **Other Actions... > Set as Default**. Finally, under the section **Window**, change the size to something better, like **Columns: 125** and **Rows: 35**.
 
 When done, hit the red "X" in the upper left (saving is automatic in OS X preference panes). Close the window and open a new one to see the size change.
+<<<<<<< HEAD
 =======
 Download from [www.google.com/chrome](https://www.google.com/intl/en/chrome/browser/).
+=======
+>>>>>>> 33fb6606636e6ce5492053477a0ada52961b22aa
