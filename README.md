@@ -1,10 +1,8 @@
-# hw
 
 - [System update](#system-update)
 - [System preferences](#system-preferences)
 - [Google Chrome](#google-chrome)
 - [iTerm2](#iterm2)
-
 
 ## System update
 
