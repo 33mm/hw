@@ -10,6 +10,7 @@
 
 First thing you need to do, on any OS actually, is update the system! For that: **Apple Icon > Software Update...**
 
+
 ## System preferences
 
 If this is a new computer, there are a couple tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
@@ -40,3 +41,5 @@ Let's just quickly change some preferences. In **iTerm > Preferences...**, under
 In the tab **Profiles**, create a new one with the "+" icon, and rename it to your first name for example. Then, select **Other Actions... > Set as Default**. Finally, under the section **Window**, change the size to something better, like **Columns: 125** and **Rows: 35**.
 
 When done, hit the red "X" in the upper left (saving is automatic in OS X preference panes). Close the window and open a new one to see the size change.
+=======
+Download from [www.google.com/chrome](https://www.google.com/intl/en/chrome/browser/).
